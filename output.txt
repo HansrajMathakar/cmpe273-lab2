@@ -1,0 +1,8 @@
+
+1. Server running:
+(273lab2) hansraj@ubuntu:~/Documents/testadd$ python calculator_server.py
+
+2. Client running:
+(273lab2) hansraj@ubuntu:~/Documents/testadd$ python calculator_client.py
+9
+
